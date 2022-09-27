@@ -1,0 +1,582 @@
+{
+  "videos": [
+    {
+      "id": 2,
+      "title": "JavaScript Full Course | JavaScript Tutorial For Beginners",
+      "description": "This Edureka video on JavaScript full course is a complete guide to JavaScript which covers in-depth knowledge about data types, variables, functions, event handling, form validation, etc using JavaScript. Topics covered in this Complete JavaScript Tutorial for Beginners are:",
+      "author": "Edureka",
+      "avatar": "https://yt3.ggpht.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/o1IaduQICO0",
+      "thumbnail": "https://i.ytimg.com/vi/o1IaduQICO0/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "JavaScriptCompleteCourse",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 3,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": [
+        "vscode",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 4,
+      "title": "ReactJS Full Course in 7 Hours | Learn React js | React.js Training | Edureka",
+      "description": "This Edureka React JS Tutorial for Beginners will help you learn ReactJS concepts with examples. This tutorial will help you in building a strong foundation in the React framework.🔴Subscribe to our channel to get video updates. Hit the subscribe button above.",
+      "author": "Edureka",
+      "avatar": "https://yt3.ggpht.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/VyeA0tVreYw",
+      "thumbnail": "https://i.ytimg.com/vi/VyeA0tVreYw/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 6,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": [
+        "debounce",
+        "javascript",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 7,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": [
+        "sass",
+        "css",
+        "ui",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "Web Development Full Course - 10 Hours | Learn Web Development from Scratch | Edureka",
+      "description": "This Edureka Web Development Full Course video will help you understand and learn Web Development in detail. This Web Development Tutorial is ideal for both beginners as well as professionals who want to master Web Development technologies.",
+      "author": "Edureka",
+      "avatar": "https://yt3.ggpht.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/Q33KBiDriJY",
+      "thumbnail": "https://i.ytimg.com/vi/Q33KBiDriJY/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "router",
+        "javascript",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 10,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "11:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 11,
+      "title": "JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]",
+      "description": "Here is the best free javascript programming course on the planet. Made with lots of ❤️. Take your web development skills to the next level with this Clever Programmer Learn Javascript course for beginners.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/Qqx_wzMmFeA",
+      "thumbnail": "https://i.ytimg.com/vi/Qqx_wzMmFeA/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "tips",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 12,
+      "title": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+      "description": "Here is the best free javascript programming course on the planet. Made with lots of ❤️. Take your web development skills to the next level with this Clever Programmer Learn Javascript course for beginners.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/lI1ae4REbFM",
+      "thumbnail": "https://i.ytimg.com/vi/lI1ae4REbFM/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "tips",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 13,
+      "title": "🔴 Build a Todo App with Solidity, Next.js, Tailwind css & Truffle",
+      "description": "We just created a Todo App using Solidity. This will be the best way for you to dive into blockchain development 🔝. Made with lots of ❤️. Kickstart your Blockchain Development career or take it to the next level with this course. This course is perfect for Beginners as well as Intermediate Developers.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/awQTDVvYyjI",
+      "thumbnail": "https://i.ytimg.com/vi/awQTDVvYyjI/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "solidity",
+        "tailwind",
+        "css"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 14,
+      "title": "🔴Build Amazon 2.0 with JavaScript + Tailwind CSS (& Firebase)",
+      "description": "In this video Naz and Jessy will show you how to build the redesigned version of Amazon using JavaScript, Tailwind and Firebase. Make sure to watch the whole entire video as these are the basics companies looking for.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/9rW_-Zu9cXI",
+      "thumbnail": "https://i.ytimg.com/vi/9rW_-Zu9cXI/mqdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "css",
+        "tailwind"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 15,
+      "title": "🔴 Uber Clone with Next JS, React JS, Tailwind CSS and Firebase (Part 1 of 3)",
+      "description": "In this video Naz and Jessy will show you how to build the redesigned version of Amazon using JavaScript, Tailwind and Firebase. Make sure to watch the whole entire video as these are the basics companies looking for.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/VuGmykVgTg",
+      "thumbnail": "https://i.ytimg.com/vi/_VuGmykVgTg/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "css",
+        "tailwind"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 16,
+      "title": "Build Amazon Web 3.0 Blockchain App with Solidity | Moralis | Next.js | Ethers.js | Tailwind CSS",
+      "description": "In this video Naz and Jessy will show you how to build the redesigned version of Amazon using JavaScript, Tailwind and Firebase. Make sure to watch the whole entire video as these are the basics companies looking for.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/HMdwbq1JJT0",
+      "thumbnail": "https://i.ytimg.com/vi/HMdwbq1JJT0/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "nextjs",
+        "solidity",
+        "tailwind"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 17,
+      "title": "Build Tinder Blockchain Web 3.0 App with Moralis | Solidity | Next.js | Sanity.io",
+      "description": "In this video Naz and Jessy will show you how to build the redesigned version of Amazon using JavaScript, Tailwind and Firebase. Make sure to watch the whole entire video as these are the basics companies looking for.",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4YjUaQKE6-I",
+      "thumbnail": "https://i.ytimg.com/vi/4YjUaQKE6-I/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "nextjs",
+        "css",
+        "tailwind"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 18,
+      "title": "🔴 Build OpenSea 2.0 Web3 dApp with Next.js, Replit, thirdweb, Infura, & Tailwind CSS",
+      "description": "In this tutorial, you're gonna be building the Opensea 2.0 Web3 dApp using Next JS, Replit, thirdweb, Infura, & Tailwind CSS 🔥",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/LP6mRPBg_4I",
+      "thumbnail": "https://i.ytimg.com/vi/LP6mRPBg_4I/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "css",
+        "tailwind"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 19,
+      "title": "25 VS Code Productivity Tips and Speed Hacks",
+      "description": "Learn 25 VS Code tips and tricks that will help you write code faster. Try out awesome new features and extensions that turn your editor into a full-blown IDE.🔥",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/ifTF3ags0XI",
+      "thumbnail": "https://i.ytimg.com/vi/ifTF3ags0XI/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "vscode",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 20,
+      "title": "🔴Learn how to write solid modern JavaScript and avoid bad code from the olden days 🔥",
+      "description": "In this tutorial you will learn  how to write solid modern JavaScript and avoid bad code from the olden days",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/Mus_vwhTCq0",
+      "thumbnail": "https://i.ytimg.com/vi/Mus_vwhTCq0/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 21,
+      "title": "What is Server Side Rendering - Say hi to Next.js - Bangla ( বাংলা ) Tutorial",
+      "description": "Next js is a great react framework for web development. sever side rendering is great feature of nextjs",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/721mxZ3XHf8",
+      "thumbnail": "https://i.ytimg.com/vi/721mxZ3XHf8/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "nextjs",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 22,
+      "title": "NestJS in 100 Seconds",
+      "description": "Next js is a great react framework for web development.",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/0M8AYU_hPas",
+      "thumbnail": "https://i.ytimg.com/vi/0M8AYU_hPas/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "nextjs",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 23,
+      "title": "🔴 Build Medium App with Next.js and Firebase",
+      "description": "Learn 25 VS Code tips and tricks that will help you write code faster. Try out awesome new features and extensions that turn your editor into a full-blown IDE.🔥",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/xnshvkVrsw8",
+      "thumbnail": "https://i.ytimg.com/vi/xnshvkVrsw8/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "nextjs",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 24,
+      "title": "🔴7 ways to deal with CSS",
+      "description": "Top 7 ways to write CSS code in a React or Next.js app. Learn the tradeoffs between different tools like CSS modules, CSS-in-JS, Sass, Tailwind, Bootstrap, component libraries, and more. ",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/ouncVBiye_M",
+      "thumbnail": "https://i.ytimg.com/vi/ouncVBiye_M/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "webdevelopment",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 25,
+      "title": "ReactJS Course [17] - Firebase Social Media Project (Part. 3) | Like System",
+      "description": "React Beginner to Advanced Course 2022! In this course I will be going over everything you need to know to go from a complete beginner in react, to being able to create big projects on your own.",
+      "author": "PedroTech",
+      "avatar": "https://yt3.ggpht.com/tLOaVyDRQq46qga99PFlP9b3PRcni8gBJepNOecsgIdADpxU10p6w0VD-fZ8VvtqeldN6IHYOj0=s900-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/skstYc-K6ws",
+      "thumbnail": "https://i.ytimg.com/vi/skstYc-K6ws/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "webdevelopment"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 26,
+      "title": "This Simple Trick Will Make You Motivated Everyday (Animated Story)",
+      "description": "There Simple Trick That Will Make You Motivated Everyday. I guarantee, that this will be the best motivational video that you will see today, It’s not like the “Fake” motivational videos out there on YouTube. It’s literally impossible, to not be motivated if you implement this habit.We all struggle with motivation from time to time, it’s not bad to admit this. But it is bad, to allow yourself to stay unmotivated. There are many people who talk about motivation, as if it’s something that you get. But we have to realize, that motivation is just an emotion, and all emotions are transient, meaning they come and they go. So, you can rely on motivation, because it comes and it goes. Implementing this strategy will also force you to be self disciplined, because you really do have no other option.",
+      "author": "Mitch Manly",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_7DbPrnk2PMjsg-5yLEhYpGpPmIH08fl2KxtXtQg=s900-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/IHwqhSLE9Gc",
+      "thumbnail": "https://i.ytimg.com/vi/IHwqhSLE9Gc/maxresdefault.jpg",
+      "tags": [
+        "others"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 27,
+      "title": "Next.js 12 is a Beast",
+      "description": "Your first look at Next.js version 12. It's packed with awesome new features, like a rust compiler, middleware, concurrent mode, server components, and more. Full course 🔥",
+      "author": "Fireship",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/lRQ5z7i7pxE",
+      "thumbnail": "https://i.ytimg.com/vi/lRQ5z7i7pxE/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "nextjs",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 28,
+      "title": "Build APE Coin DAO with Next.js & thirdweb",
+      "description": "In this tutorial you are going to learn How to Build APE Coin DAO with Next.js & thirdweb",
+      "author": "Clever Programmer",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/mzpFbKnrOrc",
+      "thumbnail": "https://i.ytimg.com/vi/mzpFbKnrOrc/maxresdefault.jpg",
+      "tags": [
+        "nextjs",
+        "javascript",
+        "webdevelopment",
+        "tailwind"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "solidity"
+    },
+    {
+      "id": 12,
+      "title": "nextjs"
+    },
+    {
+      "id": 13,
+      "title": "webdevelopment"
+    },
+    {
+      "id": 14,
+      "title": "others"
+    }
+  ]
+}
